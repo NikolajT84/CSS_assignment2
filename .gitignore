@@ -1,8 +1,5 @@
 
 final_papers.csv
-img/realgraph.png
-img/randomgraph.png
-graph.json
 final_authors.csv
 final_abstracts_tokens.pkl
 final_abstracts.csv
